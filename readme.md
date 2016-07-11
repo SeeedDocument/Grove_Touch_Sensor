@@ -1,7 +1,7 @@
 Grove - Touch Sensor
 ---
 
-**SKU**: [101020037](http://bz.seeedstudio.com/depot/Grove-Touch-Sensor-p-747.html?cPath=85_94)
+**SKU**: [101020037](https://www.seeedstudio.com/item_detail.html?p_id=747)
 
 **Wiki Link**: [wiki.seeed.cc](http://wiki.seeed.cc)
 
